@@ -1,8 +1,9 @@
 name: Waka Readme
 
 on:
+  repository_dispatch:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '25 1 * * *'
 
 jobs:
   update-readme:
