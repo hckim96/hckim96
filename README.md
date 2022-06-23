@@ -20,3 +20,4 @@ Mac                      5 hrs 40 mins       ███████████�
 
  Last Updated on 22/06/2022 13:55:55 UTC
 <!--END_SECTION:waka-->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
