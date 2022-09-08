@@ -20,6 +20,6 @@ Linux                    10 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 07/09/2022 14:07:15 UTC
+ Last Updated on 08/09/2022 13:49:37 UTC
 <!--END_SECTION:waka-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
