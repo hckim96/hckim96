@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C184%20hrs%2048%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,6 +19,6 @@ Linux                    49 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 05/12/2022 13:38:53 UTC
+ Last Updated on 06/12/2022 13:40:11 UTC
 <!--END_SECTION:waka-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
