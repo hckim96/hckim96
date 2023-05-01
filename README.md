@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,6 +17,6 @@ Mac                      3 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 01/05/2023 16:53:31 UTC
+ Last Updated on 01/05/2023 17:08:48 UTC
 <!--END_SECTION:waka-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
