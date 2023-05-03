@@ -19,4 +19,7 @@ Mac                      3 hrs 6 mins        ███████████�
 
  Last Updated on 02/05/2023 13:33:33 UTC
 <!--END_SECTION:waka-->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)![mazandi profile](http://mazandi.herokuapp.com/api?handle=hckim96&theme=dark)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
+
