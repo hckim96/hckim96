@@ -21,5 +21,5 @@ Mac                      3 hrs 6 mins        ███████████�
 <!--END_SECTION:waka-->
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)![mazandi profile](http://mazandi.herokuapp.com/api?handle=hckim96&theme=dark)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=hckim96)](https://solved.ac/hckim96)[![Solved.ac streak](http://mazandi.herokuapp.com/api?handle=hckim96&theme=dark)](https://solved.ac/hckim96)[![CodeForces Profile](https://cf.leed.at?id=hckim96)](https://codeforces.com/profile/hckim96)
 
