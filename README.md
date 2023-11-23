@@ -4,15 +4,14 @@
 
 ```text
 💬 Programming Languages: 
-C                        18 mins             █████████████████████████   99.59 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2023 13:33:33 UTC
+ Last Updated on 23/11/2023 13:35:26 UTC
 <!--END_SECTION:waka-->
 
 
