@@ -6,14 +6,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/12/2023 13:33:27 UTC
+ Last Updated on 26/12/2023 13:33:41 UTC
 <!--END_SECTION:waka-->
 
 
