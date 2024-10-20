@@ -6,14 +6,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/10/2024 13:35:24 UTC
+ Last Updated on 20/10/2024 13:35:40 UTC
 <!--END_SECTION:waka-->
 
 
