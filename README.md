@@ -6,14 +6,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/01/2025 13:36:34 UTC
+ Last Updated on 30/01/2025 13:35:55 UTC
 <!--END_SECTION:waka-->
 
 
