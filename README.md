@@ -6,15 +6,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████░░░░   82.94 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2025 13:43:17 UTC
+ Last Updated on 23/08/2025 13:39:05 UTC
 <!--END_SECTION:waka-->
 
 
