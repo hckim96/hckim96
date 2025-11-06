@@ -1,7 +1,17 @@
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/11/2025 13:47:54 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 06/11/2025 13:46:59 UTC
 <!--END_SECTION:waka-->
 
 
