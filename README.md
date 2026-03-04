@@ -6,14 +6,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      56 mins             █████████████░░░░░░░░░░░░   50.69 % 
+Other                    39 mins             █████████░░░░░░░░░░░░░░░░   35.31 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2026 14:08:59 UTC
+ Last Updated on 04/03/2026 14:07:43 UTC
 <!--END_SECTION:waka-->
 
 
