@@ -1,23 +1,23 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C936%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C938%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      56 mins             █████████████░░░░░░░░░░░░   50.69 % 
-Other                    39 mins             █████████░░░░░░░░░░░░░░░░   35.31 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C++                      56 mins             ████████████░░░░░░░░░░░░░   49.79 % 
+Other                    39 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 14:07:43 UTC
+ Last Updated on 05/03/2026 14:09:59 UTC
 <!--END_SECTION:waka-->
 
 
