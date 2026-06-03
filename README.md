@@ -1,23 +1,23 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C940%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C940%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   33 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-Markdown                 30 mins             ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Bash                     25 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   49 mins             ██████████░░░░░░░░░░░░░░░   41.48 % 
+Markdown                 30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Bash                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 17:51:15 UTC
+ Last Updated on 03/06/2026 18:06:11 UTC
 <!--END_SECTION:waka-->
 
 
