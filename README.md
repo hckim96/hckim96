@@ -6,17 +6,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             ███████████████░░░░░░░░░░   58.79 % 
-JSON                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Bash                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/06/2026 16:16:00 UTC
+ Last Updated on 10/06/2026 16:45:58 UTC
 <!--END_SECTION:waka-->
 
 
