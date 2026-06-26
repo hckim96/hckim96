@@ -1,19 +1,21 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C940%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C941%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              ███████████████████████░░   91.88 % 
+CSV                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 15:58:04 UTC
+ Last Updated on 26/06/2026 15:36:01 UTC
 <!--END_SECTION:waka-->
 
 
