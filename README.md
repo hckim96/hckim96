@@ -1,7 +1,19 @@
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C941%20hrs%2027%20mins-blue?style=flat)
 
- Last Updated on 24/07/2026 15:11:33 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 25/07/2026 14:44:40 UTC
 <!--END_SECTION:waka-->
 
 
